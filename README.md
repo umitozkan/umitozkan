@@ -12,4 +12,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umitozkan&show_icons=true&locale=en&layout=compact&theme=dark" alt="umitozkan" /></p>
 
-<p><img align="left" src="(https://github-readme-streak-stats.herokuapp.com?user=umitozkan&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)" alt="umitozkan" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=umitozkan&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="umitozkan" /></p>
