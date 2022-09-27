@@ -11,7 +11,7 @@ I have been working with web development since 2008, the period during which I h
 ![](https://github-readme-stats.vercel.app/api?username=umitozkan&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=umitozkan&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=umitozkan&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-[![](https://github-readme-stats.vercel.app/api/wakatime?username=umitozkan)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/wakatime?username=umitozkan&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://activity-graph.herokuapp.com/graph?username=umitozkan&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)<br/>
 
