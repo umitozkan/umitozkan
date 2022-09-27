@@ -12,6 +12,7 @@ I have been working with web development since 2008, the period during which I h
 ![](https://github-readme-streak-stats.herokuapp.com/?user=umitozkan&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=umitozkan&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+<a href="http://www.github.com/umitozkan"><img src="https://activity-graph.herokuapp.com/graph?username=umitozkan&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=umitozkan&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 
