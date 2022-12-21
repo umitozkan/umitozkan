@@ -24,4 +24,3 @@ I have been working with web development since 2008, the period during which I h
 ---
 [![](https://visitcount.itsvg.in/api?id=umitozkan&icon=0&color=1)](https://visitcount.itsvg.in)
 ---
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=umitozkan&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=umitozkan&redirect=true)
